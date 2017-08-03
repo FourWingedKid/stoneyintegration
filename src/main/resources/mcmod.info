@@ -5,7 +5,7 @@
   "description": "Integrating different mods from Stoney Wolf's Den server's custom modpack",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "info.is2005.omniengineering",
+  "url": "github.com/FourWingedKid/stoneyintegration",
   "updateUrl": "",
   "authorList": ["FourWingedKid"],
   "credits": "The Forge and FML crews",
